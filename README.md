@@ -1,3 +1,11 @@
 # Trabajando-con-Arrays
--Taller en el cuál nos pide que hagamos un filtro para el arrays, que saque los elementos extraños y solo selecciones lo de tipo string y también los ordene de manera alfábetica.
--De carácter individual
+<img>
+<p> Taller en el cuál nos pide que una página web que recorrerá que se nos ha entregado recorra un array, y filtre los elementos extraños y solo selecciones lo de tipo string y que también esten ordenados alfábeticamente</p>.
+<ul>
+ <li>Utilizando los lenguajes de :</li>
+   <li>HTML</li>
+   <li>JS</li>
+</ul>
+<p></p>
+<p></p>
+<p>-De carácter individual</p>
